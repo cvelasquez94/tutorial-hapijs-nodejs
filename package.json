@@ -1,0 +1,14 @@
+{
+  "name": "tutorial-hapijs-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[A\u001b[B",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cv",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^17.6.0"
+  }
+}
